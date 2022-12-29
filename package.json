@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "starknet": "^4.15.0"
+  },
+  "type": "module",
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2",
+    "yargs": "^17.6.2"
+  }
+}
